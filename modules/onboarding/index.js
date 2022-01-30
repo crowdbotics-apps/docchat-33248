@@ -62,6 +62,6 @@ const styles = StyleSheet.create({
 });
 
 export default {
-  title: 'Onboarding',
+  title: 'Onboarding Now!!',
   navigator: Onboarding
 }
